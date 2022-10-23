@@ -48,4 +48,3 @@
  [![GitHub Streak](https://streak-stats.demolab.com/?user=Sapna127&theme=dark)](https://git.io/streak-stats)
 ![Sapna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sapna127&show_icons=true&theme=dark)
   
- ![snake gif](https://github.com/Sapna127/Sapna127/blob/output/github-contribution-grid-snake.gif)
